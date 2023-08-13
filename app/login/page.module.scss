@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin:25px 0;
+}
+.input_display{
+  display:flex;
+  flex-direction: column;
+  gap:5px;
+}
